@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 1266-2ECA
+
+ Directory of C:\Users\VIGNESHW\OneDrive - Capgemini\Desktop\1
+
+04-10-2021  15:48    <DIR>          .
+04-10-2021  15:48    <DIR>          ..
+04-10-2021  15:48                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  432,389,251,072 bytes free
